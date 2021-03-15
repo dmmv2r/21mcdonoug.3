@@ -7,6 +7,8 @@ To clean repository, issue command "make clean".
 To run, issue command "./monitor".
 Use command "./monitor -h" for full usage help defaults.
 
+Version Control accomplished using Git and GitHub. Project name is "21mcdonoug.3" under the username "dmmv2r". URL is "github.com/dmmv2r/21mcdonoug.3"
+
 WARNING: Program does not properly compile and thus is not able to run. At the moment, the "monitor" executable is not created because an error occurs in the source file monitor.c that I was not able to fix. I believe this same error would occur in both producer.c and consumer.c as well. Program was working until I tried to introduce semaphores and then program would not compile.
 
 Note: You will notice many lines of commented code left in the source files. These are from failed attempts at different aspects of the program that I was not able to get working and thus turned into comments as to not have any errors.
